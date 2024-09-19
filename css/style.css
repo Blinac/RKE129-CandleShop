@@ -25,7 +25,7 @@ body {
 
 .intro-image__text a {
     background-color: #41312379;
-    border: 1px solid #c3b9af;
+    border: 2px solid #c3b9af;
     color: #c3b9af;
     display: inline-block;
     font-size: 2rem;
@@ -124,7 +124,7 @@ body {
 
 .tutorials-image__text a {
     background-color: #978f89af;
-    border: 1px solid #8e6f54;
+    border: 2px solid #8e6f54;
     color:  #ffffff;
     display: inline-block;
     font-size: 2rem;
